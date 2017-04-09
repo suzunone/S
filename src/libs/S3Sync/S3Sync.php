@@ -11,7 +11,7 @@ namespace S3Sync;
  * @subpackage S3Sync
  * @author     suzunone <suzunone.eleven@gmail.com>
  * @copyright  S3Sync For PHP
- * @license    WTFPL
+ * @license    MIT
  * @version    Release: @package_version@
  * @link       https://github.com/suzunone/S3Sync
  * @see        https://github.com/suzunone/S3Sync
@@ -39,7 +39,7 @@ use \Guzzle\Http\EntityBody;
  * @subpackage S3Sync
  * @author     suzunone <suzunone.eleven@gmail.com>
  * @copyright  S3Sync For PHP
- * @license    WTFPL
+ * @license    MIT
  * @version    Release: @package_version@
  * @link       https://github.com/suzunone/S3Sync
  * @see        https://github.com/suzunone/S3Sync

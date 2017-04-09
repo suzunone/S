@@ -7,7 +7,7 @@
  * @author     akito<akito-artisan@five-foxes.com>
  * @author     suzunone<suzunone.eleven@gmail.com>
  * @copyright Project S3Sync For PHP
- * @license MIT
+ * @license    MIT
  * @version    GIT: $Id$
  * @link https://github.com/suzunone/S3Sync
  * @see https://github.com/suzunone/S3Sync
