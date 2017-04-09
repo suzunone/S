@@ -2,11 +2,11 @@
 /**
  * @category   Amazon AWS S3
  * @package    S3Sync
- * @subpackage S3SyncFlow
+ * @subpackage S3Sync For PHP
  * @author     akito<akito-artisan@five-foxes.com>
  * @author     suzunone<suzunone.eleven@gmail.com>
  * @copyright Project S3Sync For PHP
- * @license MIT
+ * @license    MIT
  * @version    GIT: $Id$
  * @link https://github.com/suzunone/S3Sync
  * @see https://github.com/suzunone/S3Sync
